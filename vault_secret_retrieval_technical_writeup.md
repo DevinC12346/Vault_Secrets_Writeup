@@ -1,4 +1,4 @@
-#  Vault Secret Retrieval Script (Python) – Full Technical Writeup
+#  Vault Secret Retrieval Script (Python)-
 
 ##  Overview
 
